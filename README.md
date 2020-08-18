@@ -1,5 +1,5 @@
 # solmaru-foodcourt-system
-조선대학교 학생식당(솔마루) 주문 시스템(JAVA & Mysql)
+학생식당(솔마루) 주문 시스템(JAVA & Mysql)
 
 
 20/1/2 - 1/16 java 다시 공부
